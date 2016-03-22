@@ -1,0 +1,89 @@
+
+
+@media(min-width:767px) {
+    .navbar {
+        margin-top: 25px;
+        padding: 13px 0;
+        -webkit-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        -moz-transition: background .5s ease-in-out,padding .5s ease-in-out;
+        transition: background .5s ease-in-out,padding .5s ease-in-out;
+        border-bottom:0;
+        -webkit-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        -moz-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        -ms-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        -o-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        background: -moz-linear-gradient(top,  rgba(0,0,0,1) 1%, rgba(0,0,0,1) 18%, rgba(0,0,0,0) 100%);
+        background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 18%,rgba(0,0,0,0) 100%);
+        background: linear-gradient(to bottom,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 18%,rgba(0,0,0,0) 100%);
+        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=0 );
+        color: #fff!important;
+    }
+
+    .top-nav-collapse {
+        padding: 0;
+    }
+}
+.navbar-default .navbar-nav>li>a{
+    color: #fff;
+}
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover,.navbar-default .navbar-nav>li>a.active{
+        color: #FF9800!important;
+}
+
+.navbar-brand{
+    padding-top: 10px;
+}
+.top-nav-collapse {
+    background: #000!important;
+    margin-top: 25px;
+}
+.top-nav-collapse  .navbar-brand {
+    padding-top: 11px;
+}
+.top-nav-collapse  .navbar-brand img{
+    height: 25px;
+     -webkit-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        -moz-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        -ms-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        -o-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+        transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
+}
+.dropdown-menu {
+    top: 62px;
+    padding: 0;
+}
+.top-nav-collapse .dropdown-menu {
+    top: 49px;
+}
+/* Demo Sections - You can use these as guides or delete them - the scroller will work with any sort of height, fixed, undefined, or percentage based.
+The padding is very important to make sure the scrollspy picks up the right area when scrolled to. Adjust the margin and padding of sections and children 
+of those sections to manage the look and feel of the site. */
+
+.intro-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.about-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}
+
+.services-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #fff;
+}
+
+.contact-section {
+    height: 100%;
+    padding-top: 150px;
+    text-align: center;
+    background: #eee;
+}

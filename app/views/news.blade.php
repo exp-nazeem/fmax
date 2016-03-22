@@ -25,16 +25,18 @@
             ?>
             <div class="footer-pagination">
                 <?php
-                    echo '<a class="links" href="'.URL::to('/').'/news/1"> << </a>';
-                    echo '<a class="links" href="'.URL::to('/').'/news/'.($id - 1).'"> < </a>';
+                    if($id > 1){
+                        echo '<a class="links" href="'.URL::to('/').'/news/1"> << </a>';
+                        echo '<a class="links" href="'.URL::to('/').'/news/'.($id - 1).'"> < </a>';
+                    }
                     for($i=1; $i<=10; $i++){
                         echo '<a class="'.($i == $id ? "links-active" : "links").'" href="'.URL::to('/').'/news/'.$i.'">'.$i.'</a>';
                     }
-                    echo '<a class="links" href="'.URL::to('/').'/news/'.($id + 1).'"> > </a>';
-                    echo '<a class="links" href="'.URL::to('/').'/news/10"> >> </a>';
-                    
+                    if($id < 10){
+                        echo '<a class="links" href="'.URL::to('/').'/news/'.($id + 1).'"> > </a>';
+                        echo '<a class="links" href="'.URL::to('/').'/news/10"> >> </a>';
+                    }
                 ?>
-
             </div>
         </div>
         

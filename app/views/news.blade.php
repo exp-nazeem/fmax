@@ -23,15 +23,15 @@
             <?php
                 }
             ?>
-            <div style="width:100%; text-align:center;">
+            <div class="footer-pagination">
                 <?php
-                    echo '<a style="color:black; margin-left:10px;" href="'.URL::to('/').'/news/1"> << </a>';
-                    echo '<a style="color:black; margin-left:10px;" href="'.URL::to('/').'/news/'.($id - 1).'"> < </a>';
+                    echo '<a class="links" href="'.URL::to('/').'/news/1"> << </a>';
+                    echo '<a class="links" href="'.URL::to('/').'/news/'.($id - 1).'"> < </a>';
                     for($i=1; $i<=10; $i++){
-                        echo '<a style="color:'.($i == $id ? "blue" : "black").'; margin-left:10px;" href="'.URL::to('/').'/news/'.$i.'">'.$i.'</a>';
+                        echo '<a class="'.($i == $id ? "links-active" : "links").'" href="'.URL::to('/').'/news/'.$i.'">'.$i.'</a>';
                     }
-                    echo '<a style="color:black; margin-left:10px;" href="'.URL::to('/').'/news/'.($id + 1).'"> > </a>';
-                    echo '<a style="color:black; margin-left:10px;" href="'.URL::to('/').'/news/10"> >> </a>';
+                    echo '<a class="links" href="'.URL::to('/').'/news/'.($id + 1).'"> > </a>';
+                    echo '<a class="links" href="'.URL::to('/').'/news/10"> >> </a>';
                     
                 ?>
 

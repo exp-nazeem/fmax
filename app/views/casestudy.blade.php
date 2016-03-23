@@ -4,6 +4,12 @@
         <br><br><br><br><br>
         
             <div class="container text-left">
+                <br><br>
+                <div style="font-size: larger;color: #6F6F6F;">
+                <div class="text-justify">
+                    FieldMax® sales force automation application streamlines the on field and back office sales team’s job, making the end-to-end process efficient and faster. With the increased efficiency in sales conversions and successful customer engagements plus the reduced effort on non-core activities, sales professionals can build better rapport with customer, sales closure and cross sell - increasing your bottom line in the short term through quicker sales and in the long term through customer retention.
+                </div>
+                </div>
                 <div class="section-title"><br>
                     <h2>Client <strong>Background </strong></h2>
                     <div class="line">

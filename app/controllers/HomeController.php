@@ -1,5 +1,4 @@
 <?php
-//use View;
 class HomeController extends BaseController {
 
 	/*

@@ -12,9 +12,13 @@
                     <div class="clearfix"></div>
                     <div style="font-size: larger;">
                         <div class="text-justify">
-                            <p>FieldMax® is a mobile based Sales Force Automation tool to automate key business initiatives of Sales, Marketing and Distribution organisation. FieldMax mobile application assists the field team in effective market engagements and sale closures. The backend web application provides real time sales and business insight for the operations and management team for quicker decision making. Connecting the last mile field team with the intermediary distributor and corporate team the information exchange become hassle free and effective between the business networks.<br><br>
-                        Powered by the latest in technology, FieldMax is built on modular fashion. The application is highly configurable to suit the business and operational need of your sales & distribution structure like the workflow followed for Journey Plan / Job Order creation until its execution. The front-end is built on the most generic Mobile Platforms like Android and Windows which makes it highly accessible. Embedded to a powerful analytics engine, FieldMax ease the user to generate various reports to support Operations and business critical decision-making.</p></div></div>
+                            <p>FieldMax® is a mobile based Sales Force Automation solution to automate key business initiatives of Sales, Marketing and Distribution operations of a CPG/FMCG company. FieldMax® mobile application assists the field sales team to more efficiently manage and support retail sales operations. </p><br>
+                            <p>Powered by robust technology, FieldMax® is a modular solution and is highly configurable to suit business and operational needs of any sales & distribution organization. FieldMax® has two components. FieldMax® Mobile and FieldMax® Office.</p><br>
+                            <p>FieldMax® Mobile has been designed to make it very simple for field staff to access or process various business transactions (order details, collections, inventory delivery schedule, order status, invoices, sales returns…) when working in the field with retailers. FieldMax® Mobile empowers the field user by enabling her to access data from any backend/ ERP system.</p><br>
+                            <p>FieldMax® Office is a powerful web based backend solution and analytics engine that  improves business performance by putting actionable information into the hands of users across Sales, Marketing, Corporate, Finance and Operations. FieldMax® Office offers a wide range of Monitoring, Reporting, and Analyzing capabilities within a single architecture to allow the management to make better business decisions every day, and drive business performance more efficiently.</p><br>
+                        </div>
                     </div>
+                </div>
                     
                 </div><br><br>
                 <div class="background-001">

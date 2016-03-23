@@ -18,7 +18,7 @@
                     
                     <div class="col-xs-8">
                         <div class="text-justify" style= "font-size: larger;color: #6F6F6F;">
-                            FieldMax® Pharmasolution ensures the freedom for the pharmaceutical organisation to stream line the daily requirements of the field team. With strong mobility frontend the field team has access to core sales and deal saving critical information at the finger tip through mobile phone/Tablet devices in hand.<br>
+                            FieldMax® Pharma solution ensures the freedom for the pharmaceutical organization to streamline the daily requirements of the field team. With a powerful front end mobile solution, the field team has access to core sales and deal saving critical information on their smart phones and/or Tablets.<br>
                         </div>
                         <div class="text-left">
                             <div class="section-title">
@@ -73,35 +73,6 @@
                 <div class="bg-mobile bg-mobile-color" style="background: none;">
                     <div class="container">
                         <div class="row">
-                            
-                <!--            <div class="col-md-4">
-                                <div class="circle circle-border">
-                                    <div class="circle-inner">
-                                        <div class="score-text">
-                                            Route/PJP planning
-                                        </div>
-                                    </div>
-                                </div>
-                                
-                            </div>
-                            <div class="col-md-4">
-                                <div class="circle circle-border">
-                                    <div class="circle-inner">
-                                        <div class="score-text">
-                                            Sample/ POP tracking
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-md-4">
-                                <div class="circle circle-border">
-                                    <div class="circle-inner">
-                                        <div class="score-text">
-                                            Dynamic reports on customer
-                                        </div>
-                                    </div>
-                                </div>
-                            </div> -->
 
                             <img src="assets/images/business_enefit.svg">
                             

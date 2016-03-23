@@ -58,6 +58,13 @@ return array(
 			'database'  => 'fieldmax',
 			'username'  => 'fieldmax',
 			'password'  => 'exp@123',
+
+			// Production
+			'host'      => 'localhost',
+			'database'  => 'fmax',
+			'username'  => 'fmax',
+			'password'  => '@Fieldmax123',
+
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',

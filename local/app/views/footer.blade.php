@@ -38,7 +38,7 @@
 										</address>
 										<a target="_blank" href="https://www.facebook.com/Fieldmax-Mobile-SFA-173811946035027/"><i id="social-fb" class="fa fa-facebook-square fa-2x social"></i></a>
 										<a target="_blank" href="https://twitter.com/FieldMax_SFA"><i id="social-tw" class="fa fa-twitter-square fa-2x social"></i></a>
-										<a target="_blank" href="https://plus.google.com/"><i id="social-gp" class="fa fa-google-plus-square fa-2x social"></i></a>
+										<a target="_blank" href="https://plus.google.com/u/0/110294719409934832347/posts/"><i id="social-gp" class="fa fa-google-plus-square fa-2x social"></i></a>
 										<a target="_blank" href="https://www.youtube.com/user/experiontechnologies"><i id="social-em" class="fa fa-youtube-square fa-2x social"></i></a>
 										<a href="mailto:sales@fieldmax.in"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
 									</dl>

@@ -12,7 +12,7 @@
                     <div class="clearfix"></div>
                     <div style="font-size: larger;color: #6F6F6F;">
                         <div class="text-justify">
-                            <p>Customer information is available through internet enabled phones from any location. Sales people spend most of their time out in the field. In today’s world of smart phones, field staff can now have instant access to information in real time while being on the field, rather than waiting until they are back in the office to access vital information about customer interaction. This has changed the game quite significantly for businesses. With the latest in mobile and cloud technology, FieldMax® provides a host of business benefits to meet demanding market and business requirements. </p><br>
+                            <p>Sales people spend most of their time out in the field. Thanks to the connected world of smart phones, field staff can now have instant access to information in real time while being on the field, rather than waiting until they are back in the office to access vital information about customer interaction. This has changed the game quite significantly for businesses. With the latest in mobile and cloud technology, FieldMax® provides a host of business benefits to meet demanding business requirements. </p><br>
                             
                             <p><b> Operational Excellence </b></p>
                             <ul class="about-list">

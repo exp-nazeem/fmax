@@ -40,7 +40,7 @@
 										<a target="_blank" href="https://twitter.com/FieldMax_SFA"><i id="social-tw" class="fa fa-twitter-square fa-2x social"></i></a>
 										<a target="_blank" href="https://plus.google.com/"><i id="social-gp" class="fa fa-google-plus-square fa-2x social"></i></a>
 										<a target="_blank" href="https://www.youtube.com/user/experiontechnologies"><i id="social-em" class="fa fa-youtube-square fa-2x social"></i></a>
-										<a href="mailto:fieldmax@experionglobal.com"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
+										<a href="mailto:sales@fieldmax.in"><i id="social-em" class="fa fa-envelope-square fa-2x social"></i></a>
 									</dl>
 								</div>
 								<div class="col-md-3">

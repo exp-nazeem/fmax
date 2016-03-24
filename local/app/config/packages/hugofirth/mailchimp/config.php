@@ -14,7 +14,7 @@ return array(
 	|
 	*/
 
-	'apikey' => '5288ab6964983e65feb7164209076a0d-us12',
+	'apikey' => 'f0ad035f50de931a72f6e8413ef59b78-us12',
 
 
 );

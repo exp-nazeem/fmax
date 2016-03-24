@@ -16,7 +16,7 @@ class SubscribeController extends BaseController {
 	public function mail($email)
 	{
 		try{
-			$list_id = "ac600f5804";
+			$list_id = "01a314861b";
 			return MailchimpWrapper::lists()->subscribe($list_id, array('email'=>$email), NULL, 'html', false);	
 		}
 		catch(Exception $e){

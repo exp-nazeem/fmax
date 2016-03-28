@@ -59,6 +59,24 @@
             </div>
             <div class="col-md-3 dm-height">
               <address>
+                <strong>INDIA</strong><br>
+                Experion Technologies (I) Pvt Ltd<br>
+                802, 8th Floor, Lulu Cyber Tower 1, Infopark SEZ,<br>
+                Kakkanad, Kochi – 682042<br>
+                <i class="icon-envelope icon-white"></i> sales@fieldmax.in
+              </address>
+            </div>
+            <div class="col-md-3 dm-height">
+              <address>
+                <strong>INDIA</strong><br>
+                Experion Technologies (I) Pvt Ltd<br>
+                Third Floor, Novel Tech Park, 46/4<br>
+                GB Palya, Hosur Road, Bangalore<br>
+                <i class="icon-envelope icon-white"></i> sales@fieldmax.in
+              </address>
+            </div>
+            <div class="col-md-3 dm-height">
+              <address>
                 <strong>USA</strong> <br>
                 Experion Technologies USA Inc.<br>
                 15305, Dallas Parkway, Suite 300<br>

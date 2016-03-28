@@ -1,16 +1,20 @@
 @extends('layouts.main') 
 @section('content')
+<br><br><br><br>
 
-        <br><br><br><br><br>
-        
-            <div class="container text-center">
+        <div class="background-003">
+            <div class="container text-center"> 
                 <div class="section-title center"><br>
-                    <h2>Business Benefit</h2>
-                    <div class="line">
-                        <hr>
-                    </div>
+                
+                            <h2 style="color: #fff;">Business Benefit</h2>
+                            <div class="line"><hr></div>
+                </div>
+            </div>
+        </div><br><br>
+
+            <div class="container text-center">
                     <div class="clearfix"></div>
-                    <div style="font-size: larger;color: #6F6F6F;">
+                     <div style="font-size: larger;color: #6F6F6F;">
                         <div class="text-justify">
                             <p>Sales people spend most of their time out in the field. Thanks to the connected world of smart phones, field staff can now have instant access to information in real time while being on the field, rather than waiting until they are back in the office to access vital information about customer interaction. This has changed the game quite significantly for businesses. With the latest in mobile and cloud technology, FieldMax® provides a host of business benefits to meet demanding business requirements. </p><br>
                             
@@ -26,7 +30,7 @@
 
                             <p><b> Business Intelligence </b></p>
                             <ul class="about-list">
-                                <li><span class="fa fa-dot-circle-o"></span> <u>Reports and analytics</u>: FieldMax® enables the user to generate system reports with real-time information or create ad hoc reports. Creating reports ranging from a birds-eye view of sales to drilling down into specific sales territories, per sales rep, geographical regions or demographics can be easily executed through the report engine. Reports based on graphical presentation or MS Excel or PDF can be easily drawn at the ease of the user. Sales reps can even schedule the date and time they want reports to be emailed to their sales managers or executives, so that even if he is out of the office, the report will still get sent on time. Valuable information is consolidated from the field data. Information that will enable the executives to take informed decision </li>
+                                <li><span class="fa fa-dot-circle-o"></span> <u>Reports and analytics</u>: FieldMax® enables the user to generate system reports with real-time information or create ad hoc reports. Creating reports ranging from a birds-eye view of sales to drilling down into specific sales territories, per sales rep, geographical regions or demographics can be easily executed through the report engine. Reports based on graphical presentation or MS Excel or PDF can be easily drawn at the ease of the user. Sales reps can even schedule the date and time they want reports to be emailed to their sales managers or executives, so that even if he is out of the office, the report will still get sent on time. Valuable information is consolidated from the field data. Information that will enable the executives to take informed decision </li>
                                 <li><span class="fa fa-dot-circle-o"></span> <u>Increased visibility into sales force effectiveness</u>: The management dashboards and advanced analytical reports available in FieldMax® provides the most accurate and up-to-date information for review and decision making.</li>
                                 <li><span class="fa fa-dot-circle-o"></span> <u>Analytics of Secondary Sales</u>: Access to Product sales history in specific territories; Region wise product performance; Product growth comparison; Seasonal growth patterns among other business data to help shape better decisions for the future.</li>
                                 <li><span class="fa fa-dot-circle-o"></span> <u>Access to marketing and competitor intelligence</u>: Marketing team can configure the competitor information to be collected from the field. Salespeople (nationwide) can capture competitor inputs when they are at retail outlets to book orders. The corporate marketing team gains immediate access to consolidated feedback via FieldMax®. </li>
@@ -42,9 +46,9 @@
                             
                         </div>
                     </div>
-                </div>
-                
+                </div>              
             </div><br><br>
+        
 
             <div class="background-002">
             <div class="container text-center ">
@@ -105,11 +109,10 @@
                     </div>
                 </div>
             </div>
-            </div>
+            </div><br><br>
 
             <div class="container">
             <div style="font-size: larger;color: #6F6F6F;">
-                <br>
                 <p>Data exchange with your business partners make sure the critical stake holders are intimated on market events round the clock bridging the time gap between the on field business execution and the follow up action from the backend admin/operations team. Real-time sales data from the field provides a uniform visibility for the company/Distributors/Stockiest/Supply chain department optimizing their operations ensuring the ROI and KPI parameters are met to adhere to organisational and sales goals. </p> <br>
                             <p>Ensuring Business and process continuity, FieldMax® application makes sure the organisation/distributor data is shared between FieldMax® and 3rd party ERP application through its interface capability.</p>
                             </div>

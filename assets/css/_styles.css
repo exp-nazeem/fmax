@@ -1,6 +1,7 @@
 
 body {
    font-family: "ubunturegular", sans-serif;
+   background-color: #fff;
 }
 
 h1{
@@ -13,7 +14,7 @@ h1{
 @media screen and (min-width: 992px) {
 
 p{
-    font-size: 14px;
+    font-size: 18px;
 }
 
   .home p{
@@ -951,6 +952,29 @@ ul.slide{
     width: 100%
 }
 
+
+.background-001{
+    width: 100%;
+    padding: 60px 0 0px 0;
+    background-color: #353535;
+    color: #fff;
+}
+
+.background-002{
+    width: 100%;
+    padding: 40px 0 40px 0;
+    background-color: #353535;
+    color: #fff;
+}
+
+.no-float {
+    float: none !important;
+}
+
+.inline-block {
+    display: inline-block;
+}
+
 /* Naz */
 input[type=number]::-webkit-inner-spin-button, 
 input[type=number]::-webkit-outer-spin-button { 
@@ -959,3 +983,18 @@ input[type=number]::-webkit-outer-spin-button {
     appearance: none;
     margin: 0; 
 }
+.footer-pagination{
+    width:100%; 
+    text-align:center; 
+    background-color:black;
+}
+.footer-pagination .links{
+    margin-left:2.5%;
+    font-size:16px
+}
+.footer-pagination .links-active{
+    margin-left:2.5%;
+    font-size:18px;
+    color:#FF9800;
+}
+/* Naz */

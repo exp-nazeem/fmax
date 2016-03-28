@@ -124,7 +124,8 @@
                   <strong>AUSTRALIA</strong><br>
                   Experion Technologies Australia<br>
                   Suite 5, 20 Cato Street<br>
-                  Hawthorn East, Victoria 3123
+                  Hawthorn East, Victoria 3123<br>
+                  <i class="icon-envelope icon-white"></i> sales@fieldmax.in
                 </address>
               </div>
             </div>

@@ -1,7 +1,33 @@
 @extends('layouts.main') 
 @section('content')
 
-        <br><br><br><br><br>
+<br><br><br><br><br>
+
+        <div class="background-004">
+            <div class="container text-center ">
+                <div class="row">
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 no-float inline-block">
+                        <div style="padding: 10px;">
+                            <img src="assets/images/icon/monitor.png" alt="">
+                            <h3>Monitor / Analyze</h3>  
+                        </div>                  
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 no-float inline-block">
+                        <div style="padding: 10px;">
+                            <img src="assets/images/icon/communication.png" alt="">
+                            <h3>Communicate</h3>                        
+                    </div>
+                    </div>
+                    <div class="col-xs-6 col-sm-4 col-md-3 col-lg-3 no-float inline-block">
+                        <div style="padding: 10px;">
+                            <img src="assets/images/icon/bulb.png" alt="">
+                            <h3>Resolve</h3>                        
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br><br>
         
             <div class="container text-left">
                 <br><br>
@@ -76,6 +102,6 @@
                                     </div></div>
                                 </div>
                                 
-                            </div><br> 
+                            </div><br>
 
 @endsection

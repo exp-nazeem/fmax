@@ -42,6 +42,7 @@
 							</ul>
 						</li>
 						<!-- <li><a href="news.html">BLOG</a></li> -->
+						<li><a href="<?php echo URL::to('/'); ?>/news/1" <?php echo strpos(Request::path(), "news") !== false  ? 'class="active"' : "" ?>> NEWS</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle <?php echo in_array(Request::path(), array('downloads', 'faq', 'industry')) ? 'active' : '' ?>" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">RESOURCES <span class="caret"></span></a>
 							<ul class="dropdown-menu">
@@ -50,9 +51,7 @@
 								<li><a href="<?php echo URL::to('/'); ?>/industry">Industry Recognition</a></li>
 							</ul>
 						</li>
-						<li><a href="<?php echo URL::to('/'); ?>/news/1" <?php echo strpos(Request::path(), "news") !== false  ? 'class="active"' : "" ?>> NEWS</a></li>
 						<li><a href="<?php echo URL::to('/'); ?>/about" <?php echo (Request::path() == "about") ? 'class="active"' : "" ?>> ABOUT US</a></li>
-						
 						<li><a class="write-to-us" href="<?php echo URL::to('/'); ?>/contact" style="color: #fff; font-weight: 700;background: #EF8E04;border-radius: 5px;padding: 7px 15px;margin-top: 8px; margin-left:10px;: "> WRITE TO US</a></li>
 					</ul>
 				</div>

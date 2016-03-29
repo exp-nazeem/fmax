@@ -73,12 +73,12 @@
         <div class="container">
           <div class="row text-center">
             <div class="col-xs-12 col-sm-6 col-md-3 box-couning">
-              <div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='12' data-delay='5' data-increment="5000000">0</div>
+              <div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='150' data-delay='5' data-increment="10">0</div>
               
               <h3 class="couning-h3">Million Transactions</h3>
             </div>
             <div class="col-xs-12 col-sm-6 col-md-3 box-couning">
-              <div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='10000' data-delay='10' data-increment="50">0 +</div>
+              <div class='numscroller numscroller-big-bottom' data-slno='1' data-min='0' data-max='16000' data-delay='10' data-increment="50">0 +</div>
               <h3 class="couning-h3">Plus Users</h3>
               
             </div>

@@ -1,12 +1,3 @@
-                    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-                    <meta name="keywords" content="Fieldmax,FieldMax FMCG,FieldMax e-Catalogue, Experion,FieldMax Pharma,FieldMax i-Detailing,FieldMax Survey" />
-                    <meta name="rights" content="Experion Technologies (P) Ltd" />
-                    <meta name="description" content="FieldMax is the flagship solution from Experion Technologies. FieldMax customers across Asia and Africa reach out to more than 500,000 retailers every month. A combined 2400+ consumer products are represented on FieldMax. " />
-                    
-                    <title>FieldMax: Mobile Sales Force Automation &amp; Field Order Management</title>
-                    <link href="http://www.fieldmax.in/" rel="canonical" />
-                    <link href="/images/favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
-
                     <!-- jQuery -->
                     <script src="<?php echo URL::to('/'); ?>/assets/libs/js/jquery.min.js"></script>
                     <!-- Bootstrap JavaScript -->

@@ -31,7 +31,9 @@ Route::group(['prefix' => 'about'], function(){
 	Route::get('/', 'HomeController@about');
 });
 Route::group(['prefix' => 'news'], function(){
-	Route::get('/{id}', 'HomeController@news');
+	//Route::get('/{id}', 'HomeController@news');
+	Route::get('/{id}{title?}', array('uses' => 'HomeController@news'))->where('title', '.*');
+
 });
 
 Route::group(['prefix' => 'product'], function(){
@@ -48,6 +50,9 @@ Route::group(['prefix' => 'downloads'], function(){
 });
 Route::group(['prefix' => 'downloads'], function(){
 	Route::post('/', 'HomeController@downloads');
+});
+Route::group(['prefix' => 'freedownloads'], function(){
+	Route::get('/', 'HomeController@freeDownloads');
 });
 Route::group(['prefix' => 'faq'], function(){
 	Route::get('/', 'HomeController@faq');

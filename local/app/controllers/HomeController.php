@@ -75,6 +75,9 @@ class HomeController extends BaseController {
 		});    
 		return View::make('downloads');
 	}
+	public function freeDownloads(){
+		return View::make('downloads');
+	}
 	public function faq()
 	{
 		return View::make('faq');

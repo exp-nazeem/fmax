@@ -28,7 +28,7 @@
                                     <img style="margin-top: 40%;" src="<?php echo URL::to('/'); ?>/assets/images/samsung.jpg" class="img-responsive center-block" alt="">
                                 </div>
                                 <div class="col-xs-9">
-                                    <p>FieldMax® was included under Samsung Enterprise Alliance Program (SEAP) in 2013. As a Silver partner of SEAP, Experion and Samsung work closely with each other in areas such as solution development, go-to-market strategic planning and sales & marketing for FieldMax® <br><br></p>
+                                    <p>FieldMax® was included under Samsung Enterprise Alliance Program (SEAP) in 2013. As a Silver partner of SEAP, Experion and Samsung work closely with each other in areas such as solution development, go-to-market strategic planning, and sales & marketing for FieldMax® <br><br></p>
                                 </div>
                             </div>
                         </div>
@@ -43,7 +43,7 @@
                                     <img style="margin-top: 80%;" src="<?php echo URL::to('/'); ?>/assets/images/oracle.jpg" class="img-responsive" alt="">
                                 </div>
                                 <div class="col-xs-9">
-                                    <p>FieldMax® was handpicked by Oracle Corporation to be showcased at Mobile World Congress (Barcelona, 2011). Oracle invited Experion to present FieldMax® during the Oracle OpenWorld Conference (San Francisco, 2011) and showcased it under "Java in the Spotlight" in its global website.</p>
+                                    <p>FieldMax® was handpicked by Oracle Corporation to be showcased at Mobile World Congress (Barcelona, 2011). Oracle invited Experion to present FieldMax® during the Oracle Open World Conference (San Francisco, 2011) and showcased it under "Java in the Spotlight" on its global website.</p>
                                 </div>
                             </div>
                         </div>

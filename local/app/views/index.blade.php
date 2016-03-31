@@ -10,7 +10,7 @@
             <div class="text-left">
               <h1 data-swiper-parallax="-200">MAXIMISING FIELD PRODUCTIVITY</h1>
               <div class="p-silde home"  data-swiper-parallax="-400">
-                <p>Get real time intelligence for quick and efficient decision making</p>
+                <p>Get real-time intelligence for quick and efficient decision-making</p>
               </div>
               <button type="button" class="btn btn-dm color1" data-swiper-parallax="-600" onclick="location.href='product'">Read More</button>
             </div>
@@ -20,9 +20,9 @@
           <img src="assets/images/slider-2.JPG" class="img-responsive img-rounded" alt="Responsive image" >
           <div class="swiper-dm">
             <div class="text-left">
-              <h1 class="h1-slide text-white" data-swiper-parallax="-200">SMARTER WAY TO CUSTOMER ENGAGEMENT</h1>
+              <h1 class="h1-slide text-white" data-swiper-parallax="-200">SMARTER WAY TO CUSTOMER ENGAGEMENTS</h1>
               <div class="p-silde home" data-swiper-parallax="-400">
-                <p>Improve field productivity and streamline field sales processes</p>
+                <p>Improve field productivity and streamline field sales process</p>
               </div>
               <button type="button" class="btn btn-dm color1" data-swiper-parallax="-600" onclick="location.href='business'">Read More</button>
             </div>
@@ -32,7 +32,7 @@
           <img src="assets/images/slider-3.JPG" class="img-responsive img-rounded" alt="Responsive image" >
           <div class="swiper-dm">
             <div class="text-left">
-              <h1 class="h1-slide text-white" data-swiper-parallax="-200">CONNECTING THE LAST MILE TEAM</h1>
+              <h1 class="h1-slide text-white" data-swiper-parallax="-200">CONNECTING LAST MILE TEAM</h1>
               <div class="p-silde home" data-swiper-parallax="-400">
                 <p>Decongesting information exchange for better sales and operational visibility</p>
               </div>
@@ -116,7 +116,7 @@
           <div class="col-md-6 p-dm text-left">
             <h1 class="h1-color-orc">FieldMax<sup>®</sup> Van Sales</h1>
             <div class="home">
-              <p>Making realtime invoicing a reality</p>
+              <p>Making real-time invoicing a reality</p>
             </div>
             <div class="span">
               <span>Managing the distributed sales team and intermediaries can become challenging at times. Learn how FieldMax® can help you stream line your field sales and invoicing.</span>

@@ -12,9 +12,9 @@
                     <div class="clearfix"></div>
                     <div style="font-size: larger;color: #6F6F6F;">
                         <div class="text-justify">
-                            Battle ground for sales and customer acquisition has been changing and so does buyer behavior. Acknowledging this, FieldMax® Retail application caters to the business requirement of the modern day organisation engaged in retail door to door sales. The application enables the user to make order and sales transaction through a secured gateway. The retail variant of the FieldMax® application provides the user to execute banking transaction for the associated sales transaction executed through mobile application in a secured environment.
+                            The battleground for sales and customer acquisition has been changing and so does buyer behavior. Acknowledging this, FieldMax® Retail application caters to the business requirement of the modern day organisation engaged in retail door to door sales. The application enables the user to make order and sales transaction through a secured gateway. The retail variant of the FieldMax® application provides the user to execute banking transaction for the associated sales transaction executed through mobile application in a secured environment.
                             <br><br>
-                            The application has been designed to provide the simplicity of executing mobile transaction without the hassle of stepping out of the user convenience.
+                            The application has been designed to provide the simplicity of executing a mobile transaction without the hassle of stepping out of the user convenience.
                         </div>
                     </div>
                 </div>

@@ -12,7 +12,7 @@
                     <div class="clearfix"></div>
                     <div style="font-size: larger;color: #6F6F6F;">
                         <div class="text-justify">
-                            Inventory audit has always been an extremely critical activity for any  sales organization. The implication and importance of the data derived through this activity has never been so imperative especially at a time when organization have an increasingly distributed sales network. 
+                            Inventory audit has always been an extremely critical activity for any  sales organization. The implication and importance of the data derived from this activity have never been so imperative especially at a time when an organization has an increasingly distributed sales network. 
                             <br><br> Recognizing the need, FieldMax® audit application serves the  market requirements of inventory audit. The user has the provision to get updated information about the stock position available in records through the handheld device. 
                         </div>
                     </div>

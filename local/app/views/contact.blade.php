@@ -52,8 +52,9 @@
               <address>
                 <strong>INDIA</strong><br>
                 Experion Technologies (I) Pvt Ltd<br>
-                407, 4th Floor, Thejaswini, Technopark Campus,<br>
-                Thiruvananthapuram, Kerala, India - 695 581<br>
+                407, 4th Floor, Thejaswini, Technopark,<br>
+                Thiruvananthapuram, Kerala, India - 81<br>
+                Tel: +91 471 3047310 <br>
                 <i class="icon-envelope icon-white"></i> sales@fieldmax.in
               </address>
             </div>

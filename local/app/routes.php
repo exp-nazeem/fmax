@@ -45,6 +45,9 @@ Route::group(['prefix' => 'business'], function(){
 Route::group(['prefix' => 'casestudy'], function(){
 	Route::get('/', 'HomeController@casestudy');
 });
+Route::group(['prefix' => 'case-study'], function(){
+	Route::get('/', 'HomeController@downloadCasestudy');
+});
 Route::group(['prefix' => 'downloads'], function(){
 	Route::get('/', 'HomeController@customerStories');
 });

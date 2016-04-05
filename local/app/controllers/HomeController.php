@@ -49,6 +49,10 @@ class HomeController extends BaseController {
 	{
 		return View::make('casestudy');
 	}
+	public function downloadCasestudy()
+	{
+		return View::make('downloadCasestudy');
+	}
 
 	public function customerStories()
 	{

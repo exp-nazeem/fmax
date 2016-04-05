@@ -15,7 +15,7 @@
                         <div class="text-justify">                            
                             <ul class="about-list">
                                 <li><span class="fa fa-dot-circle-o"></span> <a href="assets/pdf/Experion_FieldMax Brochure 2013.pdf" target="_blank" style="color:blue"> FieldMax Brochure </a></li>
-                                <li><span class="fa fa-dot-circle-o"></span> <a href="assets/pdf/FieldMax_Case_Study.pdf" target="_blank" style="color:blue"> Case Studies </a></li>
+                                <li><span class="fa fa-dot-circle-o"></span> <a href="<?php echo URL::to('/'); ?>/case-study" style="color:blue"> Case Studies </a></li>
                             </ul>                            
                         </div>
                     </div>

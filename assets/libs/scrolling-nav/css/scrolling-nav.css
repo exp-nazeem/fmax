@@ -13,9 +13,9 @@
         -ms-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
         -o-transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
         transition: 1s all cubic-bezier(0.23, 1, 0.32, 1);
-        background: -moz-linear-gradient(top,  rgba(0,0,0,1) 1%, rgba(0,0,0,1) 18%, rgba(0,0,0,0) 100%);
-        background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 18%,rgba(0,0,0,0) 100%);
-        background: linear-gradient(to bottom,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 18%,rgba(0,0,0,0) 100%);
+        background: -moz-linear-gradient(top,  rgba(0,0,0,1) 1%, rgba(0,0,0,1) 35%, rgba(0,0,0,0) 100%);
+        background: -webkit-linear-gradient(top,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 35%,rgba(0,0,0,0) 100%);
+        background: linear-gradient(to bottom,  rgba(0,0,0,1) 1%,rgba(0,0,0,1) 35%,rgba(0,0,0,0) 100%);
         filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000000', endColorstr='#00000000',GradientType=0 );
         color: #fff!important;
     }

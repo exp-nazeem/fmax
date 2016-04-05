@@ -16,7 +16,7 @@
 				</div>
 			</div>
 		</div>
-		<nav class="navbar navbar-default navbar-fixed-top" role="navigation" <?php echo (Request::path() != "/") ? 'style="background:#353535;"' : "" ?>>
+		<nav class="navbar navbar-default navbar-fixed-top" role="navigation" <?php // echo (in_array(Request::path(), array('/', 'business'))) ? '' : 'style="background:#353535;"' ?>>
 			<div class="container">
 				<div class="navbar-header page-scroll">
 					<button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">

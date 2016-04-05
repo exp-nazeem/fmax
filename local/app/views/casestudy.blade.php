@@ -1,7 +1,7 @@
 @extends('layouts.main') 
 @section('content')
 
-<br><br><br><br><br>
+<br><br>
 
         <div class="background-004">
             <div class="container text-center ">

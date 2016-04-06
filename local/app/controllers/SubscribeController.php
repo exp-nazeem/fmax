@@ -46,7 +46,7 @@ class SubscribeController extends BaseController {
 		Mailgun::send('emails.feedback', $data, function($message)
 		{
 		    $message->from(Input::get('email'));
-		    $message->to('sales@fieldmax.in', 'John Smith')->subject('Feedback from '. Input::get('name'));
+		    $message->to('sales@fieldmax.in', 'sales@fieldmax.in')->subject('Feedback from '. Input::get('name'));
 		});    
 		if(Input::get('newsletter') ){
 			$this->mail(Input::get('email'));

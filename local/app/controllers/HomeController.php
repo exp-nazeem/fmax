@@ -75,7 +75,7 @@ class HomeController extends BaseController {
 		Mailgun::send('emails.downloads', $data, function($message)
 		{
 		    $message->from(Input::get('email'));
-		    $message->to('sales@fieldmax.in', 'Admin')->subject('Download access from '. Input::get('name'));
+		    $message->to('sales@fieldmax.in', 'sales@fieldmax.in')->subject('Download access from '. Input::get('name'));
 		});    
 		return View::make('downloads');
 	}

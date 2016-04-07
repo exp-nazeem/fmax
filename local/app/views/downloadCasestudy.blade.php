@@ -52,7 +52,7 @@
 						<div style="font-size: larger;">
 							<div class="text-justify">
 								<ul class="about-list">
-									<li><span class="fa fa-dot-circle-o"></span>  R19% increase in daily sales call and retail outlet coverage in the first 3 month of deployment.</li>
+									<li><span class="fa fa-dot-circle-o"></span>  19% increase in daily sales call and retail outlet coverage in the first 3 month of deployment.</li>
 									<li><span class="fa fa-dot-circle-o"></span>  More visibility and ease of route planning and optimization</li>
 									<li><span class="fa fa-dot-circle-o"></span>  90+% improvement in data accuracy and fulfillment</li>
 									<li><span class="fa fa-dot-circle-o"></span>  30% improvement in quantitative and qualitative decision making because of real

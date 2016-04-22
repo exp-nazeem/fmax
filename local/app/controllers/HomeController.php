@@ -31,10 +31,20 @@ class HomeController extends BaseController {
 		return View::make('aboutus');
 	}
 
-	public function news($id)
+	public function news($id = 1)
 	{
-		$news = NewsModel::where('status', '=', 1)->offset(($id - 1) * 5)->take(5)->orderBy('priority', 'ASC')->get();
-		return View::make('news')->with(array('news' => $news, "id" => $id));
+		$newsDet = explode("-", $id);
+		if(count($newsDet) >1){
+			 $id = $newsDet[0];	
+			 $news = NewsModel::where('status', '=', 1)->where('id','=',$id)->get();
+			 $showPagination =0;
+		}
+		else{
+			$news = NewsModel::where('status', '=', 1)->offset(($id - 1) * 5)->take(5)->orderBy('priority', 'ASC')->get();
+			$showPagination = 1;
+
+		}
+		return View::make('news')->with(array('news' => $news, "id" => $id ,"showPagination" => $showPagination));
 	}
 
 	public function product()

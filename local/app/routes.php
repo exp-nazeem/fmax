@@ -31,8 +31,10 @@ Route::group(['prefix' => 'about'], function(){
 	Route::get('/', 'HomeController@about');
 });
 Route::group(['prefix' => 'news'], function(){
-	//Route::get('/{id}', 'HomeController@news');
-	Route::get('/{id}{title?}', array('uses' => 'HomeController@news'))->where('title', '.*');
+	Route::get('/{id}', 'HomeController@news');
+	Route::get('/', 'HomeController@news');
+
+	//Route::get('/{id}{title?}', array('uses' => 'HomeController@news'))->where('title', '.*');
 
 });
 

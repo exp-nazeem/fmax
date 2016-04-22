@@ -1,7 +1,7 @@
 		<div class="tickerbg">
 			<div class="container">
 				<div class="ticker">
-					<a href="<?php echo URL::to('/'); ?>/news/1">
+					<a href="<?php echo URL::to('/'); ?>/news">
 						<strong>News:</strong>
 						<ul>
 							<?php
@@ -42,7 +42,7 @@
 							</ul>
 						</li>
 						<!-- <li><a href="news.html">BLOG</a></li> -->
-						<li><a href="<?php echo URL::to('/'); ?>/news/1" <?php echo strpos(Request::path(), "news") !== false  ? 'class="active"' : "" ?>> NEWS</a></li>
+						<li><a href="<?php echo URL::to('/'); ?>/news" <?php echo strpos(Request::path(), "news") !== false  ? 'class="active"' : "" ?>> NEWS</a></li>
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle <?php echo in_array(Request::path(), array('downloads', 'faq', 'industry')) ? 'active' : '' ?>" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">RESOURCES <span class="caret"></span></a>
 							<ul class="dropdown-menu">

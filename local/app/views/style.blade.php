@@ -16,7 +16,7 @@
 <link rel="stylesheet" type="text/css" href="<?php echo URL::to('/'); ?>/assets/libs/css/swiper.min.css">
 <!-- Styles CSS -->
 <link rel="stylesheet" type="text/css" href="<?php echo URL::to('/'); ?>/assets/css/font-awesome.css">
-<link rel="stylesheet" type="text/css" href="<?php echo URL::to('/'); ?>/assets/css/styles.css">
+<link rel="stylesheet" type="text/css" href="<?php echo URL::to('/'); ?>/assets/css/styles.css?rand=3233432">
 <link rel="stylesheet" type="text/css" href="<?php echo URL::to('/'); ?>/assets/css/fonts.css">
 <!-- Custom CSS -->
 <link href="<?php echo URL::to('/'); ?>/assets/libs/scrolling-nav/css/scrolling-nav.css" rel="stylesheet">

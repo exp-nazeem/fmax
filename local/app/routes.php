@@ -21,10 +21,15 @@ Route::get('/', 'HomeController@showWelcome');
 Route::group(['prefix' => 'subscribe'], function(){
 	Route::get('mail/{id}', 'SubscribeController@mail');
 	Route::post('feedback', 'SubscribeController@feedback');
+	Route::post('partner', 'SubscribeController@partner');
+
 });
 
 Route::group(['prefix' => 'contact'], function(){
 	Route::get('/', 'HomeController@contact');
+});
+Route::group(['prefix' => 'partner'], function(){
+	Route::get('/', 'HomeController@partner');
 });
 
 Route::group(['prefix' => 'about'], function(){

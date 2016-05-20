@@ -54,14 +54,14 @@ return array(
 
 		'mysql' => array(
 			'driver'    => 'mysql',
-			'host'      => '192.168.1.5',
-			'database'  => 'fieldmax',
-			'username'  => 'fieldmax',
-			'password'  => 'exp@123',
+			// 'host'      => '192.168.1.5',
+			// 'database'  => 'fieldmax',
+			// 'username'  => 'fieldmax',
+			// 'password'  => 'exp@123',
 
 			// Production 
 			
-			'host'      => 'localhost',
+			'host'      => '72.47.237.45',
 			'database'  => 'fmax',
 			'username'  => 'fmax',
 			'password'  => '@Fieldmax123',

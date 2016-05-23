@@ -61,7 +61,7 @@ return array(
 
 			// Production 
 			
-			'host'      => '72.47.237.45',
+			'host'      => 'localhost',
 			'database'  => 'fmax',
 			'username'  => 'fmax',
 			'password'  => '@Fieldmax123',

@@ -8,6 +8,4 @@ return array(
 	|--------------------------------------------------------------------------
 	*/
 	'sales_email' =>'sales@fieldmax.in'
-    //'sales_email' =>'rini.cr@experionglobal.com'
-
 	);

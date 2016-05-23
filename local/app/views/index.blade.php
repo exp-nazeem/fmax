@@ -1,6 +1,10 @@
 @extends('layouts.main') 
 @section('content') 
-
+     <!--  -->
+    <div class="widget">
+        <a href="<?php echo URL::to('/'); ?>/partner"><img src="assets/images/new.png"></a>
+    </div>
+    <!--  -->
     <!-- Slide -->
     <div class="swiper-container clearfix">
       <div class="swiper-wrapper">

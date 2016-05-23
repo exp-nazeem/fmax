@@ -17,7 +17,7 @@
 
         <div class="container text-center">
             <div class="clearfix"></div>
-            <div style="font-size: larger;color: #6F6F6F;">
+            <div style="color: #6F6F6F;">
                 <h2 style="color: white;"><strong style="color: #FEB121;">Excellent opportunity to become channel partners and Independent Sales Associate</strong></h2>
                 <div class="text-justify">
                     <div class="white-p-s">

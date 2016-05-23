@@ -52,7 +52,6 @@
 							</ul>
 						</li>
 						<li><a href="<?php echo URL::to('/'); ?>/about" <?php echo (Request::path() == "about") ? 'class="active"' : "" ?>> ABOUT US</a></li>
-						<li><a href="<?php echo URL::to('/'); ?>/partner" <?php echo (Request::path() == "partner") ? 'class="active"' : "" ?>> Partner</a></li>
 						<li><a class="write-to-us" href="<?php echo URL::to('/'); ?>/contact" > WRITE TO US</a></li>
 					</ul>
 				</div>

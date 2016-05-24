@@ -46,7 +46,6 @@
                     </div>
                     <br>
                     <form  method="post" id="partnerform" class="form" role="form">
-
                     <div class="row">
                        <div class="col-xs-12 message" style="display:none">
                 <strong>Thank you for writing to us! We will get back to you on this as soon as possible.</strong>

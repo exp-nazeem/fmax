@@ -28,7 +28,7 @@
                                     <img style="margin-top: 40%;" src="<?php echo URL::to('/'); ?>/assets/images/samsung.jpg" class="img-responsive center-block" alt="">
                                 </div>
                                 <div class="col-xs-9">
-                                    <p>FieldMax® was included under Samsung Enterprise Alliance Program (SEAP) in 2013. As a Silver partner of SEAP, Experion and Samsung work closely with each other in areas such as solution development, go-to-market strategic planning, and sales & marketing for FieldMax® <br><br></p>
+                                    <p>FieldMax®  become part of Samsung Enterprise Alliance Program ( SEAP) in 2013. As part of SEAP program, Experion and Samsung work together in solution development, go-to-market planning, sales & marketing for FieldMax® <br><br></p>
                                 </div>
                             </div>
                         </div>

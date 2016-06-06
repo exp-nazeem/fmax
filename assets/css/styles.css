@@ -568,11 +568,11 @@ dt {
     margin-top: 0;
 }
 
-.section-title h2,
-.section-title.center h2 {
+.section-title h2 a,
+.section-title.center h2 a{
     font-family: 'ubuntulight';
     font-size: 40px;
-    color: rgb(109, 109, 109);
+    color: rgb(109, 109, 109)!important;  
     /*text-transform: uppercase;*/
 }
 

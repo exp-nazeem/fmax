@@ -126,6 +126,10 @@ class HomeController extends BaseController {
 	{
 		return View::make('solutions.audit');
 	}
+	public function latestNews()
+	{
+		return View::make('latestNews');
+	}
 	
 
 }

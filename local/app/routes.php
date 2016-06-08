@@ -86,3 +86,7 @@ Route::group(['prefix' => 'retail'], function(){
 Route::group(['prefix' => 'audit'], function(){
 	Route::get('/', 'HomeController@audit');
 });
+
+Route::group(['prefix' => 'latestNews'], function(){
+	Route::get('/', 'HomeController@latestNews');
+});
